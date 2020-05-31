@@ -1,0 +1,4 @@
+net: IP_ADDR product:elastic 
+net: IP_ADDR port:9200 user 
+port:"9200" all:"elastic indices
+port:27017 -all:"partially" all:"fs.files
